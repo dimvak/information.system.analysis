@@ -48,3 +48,5 @@ Submission date: 10/06/2024
 ## License
 
 This work was created solely for educational purposes.
+
+Note: This project report and all accompanying documentation are written in Greek.
